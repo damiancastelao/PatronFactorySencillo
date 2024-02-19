@@ -22,3 +22,9 @@ classDiagram
       class Ventana {+visualiza()} 
       
 ```
+
+### Cambios
+
+Añadele otra clase, por ejemplo `Impresora` y que imprima por consola el mensaje
+
+Cambia la estructura de la Interfaz añadiendole el parámetro `msg` al método `visualiza()`
